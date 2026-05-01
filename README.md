@@ -32,5 +32,3 @@ Welcome to my GitHub profile, where code, creativity, and science collide. ðŸš€â
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadeghsk1379&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeghsk1379&layout=compact&theme=radical)
