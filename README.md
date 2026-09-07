@@ -5,7 +5,7 @@ Welcome to my GitHub profile, where code, creativity, and science collide. 🚀�
 ## About Me 🤓
 
 - **Name**: Sadegh Sargazi
-- **Position**: Junior Backend Developer
+- **Position**: senior Backend Developer
 - **Education**: I have a Bachelor's degree in Software Engineering.
 - **Interests**: I am passionate about Artificial Intelligence.
 - **Current Work**: I am currently focusing on enhancing my skills in web design.
